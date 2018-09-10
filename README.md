@@ -1,6 +1,7 @@
 # DinnerFor11
-
 DinnerFor11 proves that OP(3,3,5) has no solution. Despite the result is well known in literature, there is no proof other than a *self-referencing unpublished paper*.
+
+## The missinng proof
 We quote the original source paper cited by most of the literature:
 
 *Of course, the ‘problem’ is to decide whether the above conjecture is true or false. (The first ‘exceptional case’, namely C(4,5)!=K(9), has been proven by several authors; in an unpublished paper [6] the author proved C(3,3,5)!=K(11) with the aid of a computer.)*
@@ -10,7 +11,7 @@ We quote the original source paper cited by most of the literature:
 Sourced from [this paper](https://www.sciencedirect.com/science/article/pii/0012365X9190449C)
 
 
-
+## Repository
 This repository is maintained by ALCO@Politecnico di Torino.
 TheObersolver is a pre-release software for solving the [Oberwolfach Problem](https://en.m.wikipedia.org/wiki/Oberwolfach_problem).
 
