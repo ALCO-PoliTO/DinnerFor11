@@ -15,13 +15,12 @@ Sourced from [this paper](https://www.sciencedirect.com/science/article/pii/0012
 This repository is maintained by ALCO@Politecnico di Torino.
 TheObersolver is a pre-release software for solving the [Oberwolfach Problem](https://en.m.wikipedia.org/wiki/Oberwolfach_problem).
 
-This software uses [IBM CPLEX](https://developer.ibm.com/academic/). As for the former one, scholars are entitled to obtain a free license via the IBM Academic Initiative.
+This software uses [IBM CPLEX](https://developer.ibm.com/academic/). Scholars are entitled to obtain a free license via the IBM Academic Initiative.
 
-See section [releases](https://github.com/ALCO-PoliTO/TheOberSolver/releases) for current release.
 
 ## License
 
-MIT License
+MIT Licensescholars
 
 Copyright (c) 2018 ALCO@PoliTO
 
