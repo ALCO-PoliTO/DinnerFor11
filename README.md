@@ -4,7 +4,10 @@ DinnerFor11 proves that OP(3,3,5) has no solution. Despite the result is well kn
 We quote the original source paper cited by most of the literature:
 
 *Of course, the ‘problem’ is to decide whether the above conjecture is true or false. (The first ‘exceptional case’, namely C(4,5)!=K(9), has been proven by several authors; in an unpublished paper [6] the author proved C(3,3,5)!=K(11) with the aid of a computer.)*
+
 **[6] W.L. Piotrowski, Untersuchungen iiber das Oberwolfacher Problem, 1979, manuscript**
+
+Sourced from [this paper](https://www.sciencedirect.com/science/article/pii/0012365X9190449C)
 
 
 
